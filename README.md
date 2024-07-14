@@ -1,5 +1,3 @@
-# Spam_Emails_Detection_Using_Naive_Bayes
- Detecting Spam emails using Naive Bayes algorithm
  # Spam Email Detection Using Naive Bayes
 ## Overview
 This project demonstrates how to build a spam email detector using the Naive Bayes algorithm. The model is trained on a dataset of labeled email messages and can classify new emails as either spam or not spam.
